@@ -5,4 +5,6 @@ This is a Terminal User Interface (TUI) web browser.
 
 ### I am going to keep this simple like this browser
 
-This is a very simple concept, have a light web browser that runs in your terminal.
+The idea is to have a light web browser that runs in your terminal.
+
+That is all for now.
